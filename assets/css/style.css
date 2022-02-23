@@ -10,11 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 p {
     font-size: 16px;
 }
@@ -38,6 +33,11 @@ p {
 }
 
 /* Styling for the navigation links*/
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 .header nav {
     padding-top: 15px;
